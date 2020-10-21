@@ -1,13 +1,14 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
 
 body {
-    background: rgb(240, 240, 240);
+    background: #f5efef;
     font-family: 'Helvetica', sans-serif;
     color: slategrey  ;
 }
 
 h1 {
-    color: slategrey;
+    color:  #931a25; 
+    /* slategrey */
     font-family: Arial, sans-serif;
     margin-top: 20px;
 }
@@ -27,7 +28,7 @@ a:hover {
 }
 
 h2 {
-    color: maroon;
+    color: #931a25;
 }
 
 .card-white {
@@ -45,7 +46,7 @@ h2 {
 }
 
 #btn-maroon {
-    background: maroon;
+    background: #931a25;
     color: white;
     padding: 15px 20px;
     border-radius: 4px;
